@@ -6,10 +6,12 @@
     <CreatedBy>jose.ignacio.romon.guerra@everis.com</CreatedBy>
     <Description></Description>
     <DisplayName>git-demo</DisplayName>
-    <LastModifiedAt>1609846937860</LastModifiedAt>
+    <LastModifiedAt>1609858526368</LastModifiedAt>
     <LastModifiedBy>jose.ignacio.romon.guerra@everis.com</LastModifiedBy>
-    <ManifestVersion>SHA-512:0895040822f29fde31e00d1f17d3bf824427334f9db87eb0d1a37ae120829d9ac183632fb072b70ce721d9a173e019ef5b30fa6a27b7747be472d026c596c22b:eu-west-1</ManifestVersion>
-    <Policies/>
+    <ManifestVersion>SHA-512:8a7b5f46b05639dbdfc824cab48cb8fa478f2f7cc8063d157e50598b3801d9ce059d4b4de4efaebfd168e20cac36876b3e6b0f8521548a67a6789fa509e727bd:eu-west-1</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+    </Policies>
     <ProxyEndpoints>
         <ProxyEndpoint>default</ProxyEndpoint>
     </ProxyEndpoints>
