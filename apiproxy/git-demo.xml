@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="git-demo">
+    <Basepaths>/v1/git-demo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1609846937860</CreatedAt>
+    <CreatedBy>jose.ignacio.romon.guerra@everis.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>git-demo</DisplayName>
+    <LastModifiedAt>1609846937860</LastModifiedAt>
+    <LastModifiedBy>jose.ignacio.romon.guerra@everis.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:0895040822f29fde31e00d1f17d3bf824427334f9db87eb0d1a37ae120829d9ac183632fb072b70ce721d9a173e019ef5b30fa6a27b7747be472d026c596c22b:eu-west-1</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
